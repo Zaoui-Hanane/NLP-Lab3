@@ -27,8 +27,7 @@ This project involves two main tasks: language modeling/regression and language 
     - **Naive Bayes Regression**
     - **Linear Regression**
     - **Decision Tree Regression**
-    
-    *Note: Embeddings will be generated using Word2Vec.*
+
 
 4. **Model Evaluation**:
     - Evaluate models using Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and other relevant metrics.
@@ -60,7 +59,6 @@ This project involves two main tasks: language modeling/regression and language 
     - **Logistic Regression**
     - **Ada Boosting Classifier**
 
-    *Note: Embeddings will be generated using Word2Vec.*
 
 4. **Model Evaluation**:
     - Evaluate models using Accuracy, Loss, F1 Score, and other relevant metrics such as BLEU score.
